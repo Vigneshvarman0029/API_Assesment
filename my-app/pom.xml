@@ -28,7 +28,7 @@
 					<execution>
 						<phase>test</phase>
 						<configuration>
-							<projectFile>Add-and-delete-soapui-Project.xml</projectFile>
+							<projectFile>SOAPAssignmentcustomerCustomerRepositoryV1-soapui-Project.xml</projectFile>
 							<outputFolder>${project.build.directory}/surefire-reports</outputFolder>
 							<junitReport>true</junitReport>
 							<printReport>false</printReport>
